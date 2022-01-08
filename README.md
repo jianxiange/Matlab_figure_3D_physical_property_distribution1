@@ -1,1 +1,2 @@
-# Matlab_figure_3D_physical_property_distribution1
+# Matlab figure：3D physical property distribution
+A drawing code about geophysics with matlab.
